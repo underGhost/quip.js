@@ -1,6 +1,6 @@
 {
   "name": "quip.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple Node.js wrapper (browser included) and CLI for Quip API.",
   "main": "dist/quip.js",
   "scripts": {
@@ -33,7 +33,7 @@
   "dependencies": {
     "commander": "^2.6.0",
     "js-yaml": "^3.2.6",
-    "lodash": "^3.1.0",
+    "lodash": "^4.17.21",
     "nconf": "^0.7.2",
     "path-extra": "^1.0.3",
     "request": "^2.48.0"
